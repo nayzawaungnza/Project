@@ -1,0 +1,1 @@
+console.log('custom js file add with using vs code gui');
